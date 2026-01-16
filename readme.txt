@@ -1,5 +1,5 @@
 === Media Slug Prefix Control ===
-Contributors: seunome
+Contributors: Link Nacional
 Tags: media, attachment, slug, permalink, seo
 Requires at least: 5.6
 Tested up to: 6.4
